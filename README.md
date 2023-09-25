@@ -1,5 +1,5 @@
 # Udemy-Clone Applications
-This is an Ecommerce Service, quite similar to Shopify. There is an Admin Dashboard to Manage all your stores and their metrics. For each store, a website can be created, by just deploying the store application and setting the environment variables.
+This is a Udemy Clone website. There is an Admin Dashboard to Manage all your courses of the instructor and their metrics. For each course, content can be added to the platform and stored in the Mux(CDNs). Students can buy courses easily using Stripe and view their courses to completion. 
 
 ## Technologies used
 - Next 13 (App Router)
